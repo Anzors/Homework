@@ -1,0 +1,64 @@
+/*my nav bar is a class*/
+
+.nav
+{
+    background-color: blue;
+    width:100%;
+    height:200px;
+}
+
+.header
+{
+    background-color: blueviolet;
+    width:100%;
+    height:200px;
+}
+
+.main
+{
+    background-color: chocolate;
+    width:100%;
+    height:500px;
+    display: flex;
+}
+
+.column1
+{
+    background-color: cornflowerblue;
+    width:33.33%;
+    height:500px;
+}
+
+.column2
+{
+    background-color: dimgrey;
+    width:33.33%;
+    height:500px;
+}
+
+.column3
+{
+    background-color: forestgreen;
+    width:33.33%;
+    height:500px;
+}
+
+.footer
+{
+    width:100%;
+    height:200px; 
+}
+ul
+    {
+        list-style: none;
+    }
+li
+    {
+        text-align: center;
+    }   
+a
+    {
+        display: inline-block;
+        color: black;
+        padding: 5px;
+    }
